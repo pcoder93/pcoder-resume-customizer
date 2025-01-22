@@ -1,0 +1,28 @@
+[tool.poetry]
+name = "pcoder_resume_customizer"
+version = "0.1.0"
+description = """description"""
+authors = ["pcoder93"]
+readme = "README.md"
+
+[tool.poetry.scripts]
+pcoder_resume_customizer = "pcoder_resume_customizer.tools.cli:cli"
+
+
+[tool.poetry.dependencies]
+python = "^3.10"
+typer = "^0.12.5"
+dynaconf = "^3.2.6"
+pylatex = "^1.4.2"
+
+[tool.poetry.group.dev.dependencies]
+black = "^24.8.0"
+isort = "^5.13.2"
+pre-commit = "^3.8.0"
+
+[tool.black]
+line-length = 120
+
+[tool.isort]
+profile = "black"
+src_paths = ["src"]
