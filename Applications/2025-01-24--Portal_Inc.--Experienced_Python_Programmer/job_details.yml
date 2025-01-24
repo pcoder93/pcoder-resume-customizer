@@ -1,0 +1,90 @@
+job:
+  company_address: Central Finite Curve
+  company_name: Portal Inc.
+  cover_letter:
+    body: 'I am excited to apply for the Senior Software Engineer position at Potal
+      Inc. With extensive experience in Full Stack Development and Data Science, I
+      am eager to contribute to your team.
+
+
+      In my previous role at B Corp, I spearheaded the development of an AI-powered
+      defect detection system for industrial machines. This project involved designing
+      and deploying advanced image recognition algorithms that significantly enhanced
+      production efficiency. My expertise in rapid prototyping enabled me to develop
+      prototypes and minimum viable products, which accelerated project timelines
+      and validated innovative solutions.
+
+
+      I have a strong background in managing development environments and field deployments.
+      I led the deployment of test systems for SOTA AI based quality monitoring system,
+      developed tools for dataset management, and integrated QMS with a Docker-based
+      solution, enhancing workflow efficiency.
+
+
+      I possess strong proficiency in web technologies, including Python, TypeScript,
+      and Docker, and I have hands-on experience with AWS and Kubernetes. My expertise
+      aligns seamlessly with Potal Inc.''s technology stack, and I am committed to
+      enhancing code quality and engineering practices.
+
+
+      I am enthusiastic about joining Potal Inc. to help revolutionize the industrial
+      sector with AI technology. Thank you for considering my application.
+
+      '
+    closing: Yours Sincerely
+    opening: Dear Hiring Manager
+  description: 'YOUR RESPONSIBILITIES
+
+
+    Ship new features for our cloud-based platform every few weeks in collaboration
+    with the product and engineering team, bringing immediate value to customers.
+
+
+    Build beautiful, reusable code and libraries to ensure the scalability of our
+    software for the future.
+
+
+    Collaborate across the organization and utilize existing resources, such as our
+    design system, to deliver a simple and empowering user experience.
+
+
+    Write well-structured, commented, and documented code that is easy for peers to
+    understand while thoroughly testing developed features to maintain high product
+    quality.
+
+
+    Present new product features at internal events, exciting Sales and Customer Success
+    teams about how they can showcase these to customers.
+
+
+    Work with state-of-the-art technologies to make our competition look like Windows
+    95.
+
+
+    YOUR PROFILE
+
+
+    Proven ability to work independently in a data-driven, highly reliable, and structured
+    manner in a fast-paced environment.
+
+
+    Knowledge of user experience, responsive design, and a sense for intuitive usability.
+
+
+    Experience with continuous integration, Docker, and cloud service providers.
+
+
+    Deep understanding of object-oriented programming, browser technologies, and GIT
+    version control in production environments.
+
+
+    Proactive problem solver with a drive to improve code and engineering practices.
+
+
+    Open to feedback, fostering a culture of learning and improvement within the team.
+
+
+    Strong written and spoken English (C1 level)
+
+    '
+  title: Experienced Python Programmer

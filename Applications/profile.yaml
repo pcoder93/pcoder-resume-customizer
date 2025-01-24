@@ -1,0 +1,165 @@
+# Sample profile
+profile:
+  name: Rick C-137
+  label: AI Engineer
+  email: rick.sanchez@c137.com
+  phone: 1111111111
+  birth: 01.01.1970
+  address: Dimension C-137
+  summary: >
+    AI Engineer with experience in cloud services, programming, databases, computer vision and machine learning.
+  photo: ./Applications/headshot.png
+  website:
+  socials:
+  - provider: linkedin
+    username: xxxx
+    url: https://www.linkedin.com/in/xxxx/
+  - provider: github
+    username: pcoder93
+    url: https://github.com/pcoder93
+
+skills:
+- area: Cloud
+  skills:
+  - AWS, Aliyun(Alicloud), Azure, Cloudflare
+- area: Programming
+  skills:
+  - Python
+  - R
+  - Bash
+  - Docker
+  - Git
+  - Rust
+  - Powershell
+  - Typescript
+- area: Databases
+  skills:
+  - PostgreSQL
+  - MongoDB
+  - Redis
+  - TimescaleDB
+  - SQLite
+- area: Machine Learning
+  skills:
+  - Pytorch
+  - Scikit-learn
+  - Tensorflow
+  - Huggingface
+  - Scipy
+- area: MLOps
+  skills:
+  - ClearML
+  - Mlflow
+  - AWS Sagemaker
+- area: Image Processing
+  skills:
+  - Pillow
+  - OpenCV
+  - Albumentations
+- area: Data Wrangling
+  skills:
+  - Pandas
+  - Numpy
+- area: Visualization
+  skills:
+  - Matplotlib
+  - Seaborn
+  - Grafana
+  - Plotly
+  - PowerBi
+  - Tableau
+
+work:
+- company: E Corp
+  location:
+  role: Full Stack Developer - Data Science
+  date: 07.2022 – Present
+  summary: Led development of an AI powered defect detection system for industrial machines.
+  highlights:
+  - Led the development of a Python backend for the AI based quality monitoring system, focused on defect detection and segmentation, from POC to MVP.
+  - Create and deploy deep learning models for anomaly segmentation and classification.
+  - Optimize and quantize models for edge devices with limited compute including Nvidia and alternative inference hardware platforms such as Hailo and Intel openVino.
+  - Designed ETL pipelines for high-volume image data, encompassing data recording,labeling, ingestion, and versioning.
+  - Build and maintain cloud infrastructure for MLOPs and CI/CD
+
+- company: E Corp
+  location:
+  role: Intern Data Scientist
+  date: 06.2021 – 06.2022
+  summary: Showcased a POC for predictive maintenance of industrial machines.
+  highlights:
+  - Conducted Master's Thesis on Outlier Detection and Condition Monitoring in Sensor Data using Machine Learning approaches.
+  - Created Data Acquisition Infrastructure for Predictive Maintenance POC.
+  - Analyzed sensor data, emphasizing Unsupervised Machine Learning approaches using Scikit-learn and Pytorch.
+
+- company: B Corp
+  location:
+  role: Business Development Manager
+  date: 10.2018 – 01.2020
+  summary:
+  highlights:
+
+
+- company: Z Corp
+  location:
+  role: Senior Executive - Marketing
+  date: 08.2016 – 09.2018
+  summary:
+  highlights:
+
+
+projects:
+- name: Organic Food Product Label Classifier
+  role:
+  website:
+  date: 10.2020 – 01.2021
+  summary: Developed a YOLO V4 Object Detector for logo identification and optimized the model for real-time Android inference.
+  highlights:
+  - Trained YOLO V4 Object Detector for logo identification.
+  - Optimized the model for Android for real-time inference using TensorFlow Lite.
+  - Created a web application using the Python Flask framework.
+
+- name: Service-oriented application for Smart factory environments using OPC-UA
+  role:
+  website:
+  date: 08.2020 – 12.2020
+  summary:
+  highlights:
+  - Showcased an application using service-oriented architecture and OPC-UA for smart factory environments.
+  - "Key Technologies and Software: Siemens TIA Portal, Mitsubishi MELFA BASIC IV, OPC-UA, Python, SQL."
+
+- name: "Bachelor Thesis - Automatic drink dispenser"
+  role:
+  website:
+  date: "07-2014 - 05-2015"
+  summary:
+  highlights:
+
+
+education:
+- location: C-137 University
+  grade: "92/100"
+  date: 03.2020 – 06.2022
+  summary: "Informatics"
+
+- location: C-137 University
+  grade: "80/100"
+  date: 05.2011 – 05.2015
+  summary: "Control Engineering."
+
+- location: C-137 University
+  grade:
+  date: 06.2012 – 05.2015
+  summary: "Computer Engineering."
+
+awards:
+- name: Scholarship
+  year: 2022
+- name: Agile Practitioner
+  year: 2022
+
+languages:
+- language: English
+  level: C2
+- language: German
+  level: B1

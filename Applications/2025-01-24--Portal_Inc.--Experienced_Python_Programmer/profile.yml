@@ -1,0 +1,159 @@
+awards:
+- name: Scholarship
+  year: 2022
+- name: Agile Practitioner
+  year: 2022
+education:
+- date: "03.2020 \u2013 06.2022"
+  grade: 92/100
+  location: C-137 University
+  summary: Informatics
+- date: "05.2011 \u2013 05.2015"
+  grade: 80/100
+  location: C-137 University
+  summary: Control Engineering.
+- date: "06.2012 \u2013 05.2015"
+  grade: null
+  location: C-137 University
+  summary: Computer Engineering.
+languages:
+- language: English
+  level: C2
+- language: German
+  level: B1
+profile:
+  address: Dimension C-137
+  birth: 01.01.1970
+  email: rick.sanchez@c137.com
+  label: AI Engineer
+  name: Rick C-137
+  phone: 1111111111
+  photo: ./Applications/headshot.png
+  socials:
+  - provider: linkedin
+    url: https://www.linkedin.com/in/xxxx/
+    username: xxxx
+  - provider: github
+    url: https://github.com/pcoder93
+    username: pcoder93
+  summary: 'AI Engineer with experience in cloud services, programming, databases,
+    computer vision and machine learning.
+
+    '
+  website: null
+projects:
+- date: "10.2020 \u2013 01.2021"
+  highlights:
+  - Trained YOLO V4 Object Detector for logo identification.
+  - Optimized the model for Android for real-time inference using TensorFlow Lite.
+  - Created a web application using the Python Flask framework.
+  name: Organic Food Product Label Classifier
+  role: null
+  summary: Developed a YOLO V4 Object Detector for logo identification and optimized
+    the model for real-time Android inference.
+  website: null
+- date: "08.2020 \u2013 12.2020"
+  highlights:
+  - Showcased an application using service-oriented architecture and OPC-UA for smart
+    factory environments.
+  - 'Key Technologies and Software: Siemens TIA Portal, Mitsubishi MELFA BASIC IV,
+    OPC-UA, Python, SQL.'
+  name: Service-oriented application for Smart factory environments using OPC-UA
+  role: null
+  summary: null
+  website: null
+- date: 07-2014 - 05-2015
+  highlights: null
+  name: Bachelor Thesis - Automatic drink dispenser
+  role: null
+  summary: null
+  website: null
+skills:
+- area: Cloud
+  skills:
+  - AWS, Aliyun(Alicloud), Azure, Cloudflare
+- area: Programming
+  skills:
+  - Python
+  - R
+  - Bash
+  - Docker
+  - Git
+  - Rust
+  - Powershell
+  - Typescript
+- area: Databases
+  skills:
+  - PostgreSQL
+  - MongoDB
+  - Redis
+  - TimescaleDB
+  - SQLite
+- area: Machine Learning
+  skills:
+  - Pytorch
+  - Scikit-learn
+  - Tensorflow
+  - Huggingface
+  - Scipy
+- area: MLOps
+  skills:
+  - ClearML
+  - Mlflow
+  - AWS Sagemaker
+- area: Image Processing
+  skills:
+  - Pillow
+  - OpenCV
+  - Albumentations
+- area: Data Wrangling
+  skills:
+  - Pandas
+  - Numpy
+- area: Visualization
+  skills:
+  - Matplotlib
+  - Seaborn
+  - Grafana
+  - Plotly
+  - PowerBi
+  - Tableau
+work:
+- company: E Corp
+  date: "07.2022 \u2013 Present"
+  highlights:
+  - Led the development of a Python backend for the AI based quality monitoring system,
+    focused on defect detection and segmentation, from POC to MVP.
+  - Create and deploy deep learning models for anomaly segmentation and classification.
+  - Optimize and quantize models for edge devices with limited compute including Nvidia
+    and alternative inference hardware platforms such as Hailo and Intel openVino.
+  - Designed ETL pipelines for high-volume image data, encompassing data recording,labeling,
+    ingestion, and versioning.
+  - Build and maintain cloud infrastructure for MLOPs and CI/CD
+  location: null
+  role: Full Stack Developer - Data Science
+  summary: Led development of an AI powered defect detection system for industrial
+    machines.
+- company: E Corp
+  date: "06.2021 \u2013 06.2022"
+  highlights:
+  - Conducted Master's Thesis on Outlier Detection and Condition Monitoring in Sensor
+    Data using Machine Learning approaches.
+  - Created Data Acquisition Infrastructure for Predictive Maintenance POC.
+  - Analyzed sensor data, emphasizing Unsupervised Machine Learning approaches using
+    Scikit-learn and Pytorch.
+  location: null
+  role: Intern Data Scientist
+  summary: Showcased a POC for predictive maintenance of industrial machines.
+- company: B Corp
+  date: "10.2018 \u2013 01.2020"
+  highlights: null
+  location: null
+  role: Business Development Manager
+  summary: null
+- company: Z Corp
+  date: "08.2016 \u2013 09.2018"
+  highlights: null
+  location: null
+  role: Senior Executive - Marketing
+  summary: null
