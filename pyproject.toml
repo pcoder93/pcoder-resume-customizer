@@ -7,6 +7,7 @@ readme = "README.md"
 
 [tool.poetry.scripts]
 pcoder_resume_customizer = "pcoder_resume_customizer.tools.cli:cli"
+prc = "pcoder_resume_customizer.tools.cli:cli"
 
 
 [tool.poetry.dependencies]

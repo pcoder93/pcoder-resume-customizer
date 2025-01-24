@@ -187,3 +187,4 @@ ipython_config.py
 **/*.png
 
 **/*local_data/**/*
+**/*Applications/**/*
