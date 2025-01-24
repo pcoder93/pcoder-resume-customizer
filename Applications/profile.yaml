@@ -8,7 +8,7 @@ profile:
   address: Dimension C-137
   summary: >
     AI Engineer with experience in cloud services, programming, databases, computer vision and machine learning.
-  photo: ./Applications/headshot.png
+  photo: ./Applications/headshot.png # can be a relative path or an absolute path
   website:
   socials:
   - provider: linkedin
